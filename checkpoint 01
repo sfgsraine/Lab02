@@ -16,14 +16,7 @@ void loop()
 /*左移*/
  {
 
-digitalWrite(led[3],HIGH);
-delay(delaytime);
-digitalWrite(led[3],LOW);
-delay(delaytime);
-digitalWrite(led[3],HIGH);
-delay(delaytime); 
-digitalWrite(led[3],LOW);
-delay(delaytime);
+
 
 for(ii=0;ii<NUM;ii++)
 
